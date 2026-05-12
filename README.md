@@ -1,2 +1,1 @@
-# resume
-My online resume.
+#[Click here](https://serena-saul.github.io/resume)
